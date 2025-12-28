@@ -4,10 +4,10 @@ Herramienta CLI que analiza archivos JSON y genera un resumen/reporte.
 
 ## Funcionalidades
 
--[ ] Subcomando `stats` que cuenta key totales y profundidad máxima.
--[ ] Leer archivo pasado como argumento.
--[ ] Errores con contexto usando con `thiserror`.
--[ ] Un par de tests básicos.
+- [ ] Subcomando `stats` que cuenta key totales y profundidad máxima.
+- [ ] Leer archivo pasado como argumento.
+- [ ] Errores con contexto usando con `thiserror`.
+- [ ] Un par de tests básicos.
 
 ## Uso
 
